@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding= "utf-8" standalone="yes"?>
+<data-set xmlns:xmi="http://www.w3.org/2001/XMLSchema-instance">
+
+      <record>
+           <token>token1</token>
+           <class>class1</class>
+      </record>
+       <record>
+           <token>token1</token>
+           <class>class1</class>
+      </record>
+
+</data-set>
